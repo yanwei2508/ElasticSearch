@@ -1,0 +1,8 @@
+1. Copy code to a location
+2.copy gitignore.txt to code root
+3.cmd: yourcode location\git init
+4.go to your github, create new repository 
+5.commit all files with command line:
+ yourcode location\git add-A
+ yourcode location\git commit -m "your message"
+   
